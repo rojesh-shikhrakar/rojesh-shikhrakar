@@ -11,7 +11,7 @@
 I'm a mechanical engineer turned to machine learning who is passionate about artificial intelligence and robotics. 
 
 - 💻 I'm currently developing courses for Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
-- 📖 I'm currently learning application of machine learning in scientific domains aka SciML.
+- 📖 I'm currently learning application of machine learning in scientific domains (SciML).
 - ✍️ I write interactive learning materials.
 
 
@@ -22,7 +22,7 @@ I'm a mechanical engineer turned to machine learning who is passionate about art
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rojesh-shikhrakar&repo=DSA.jl)](https://github.com/rojesh-shikhrakar/DSA.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rojesh-shikhrakar&repo=SciComp.jl)](https://github.com/rojesh-shikhrakar/SciComp.jl)
 
 <br />
 
