@@ -8,11 +8,12 @@
 
 </p>
 
-I'm a mechanical engineer turned to machine learning who is passionate about artificial intelligence and robotics. 
+I'm Rojesh
 
-- 💻 I'm currently developing courses for Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
-- 📖 I'm currently learning application of machine learning in scientific domains (SciML).
-- ✍️ I write interactive learning materials.
+- 👨‍💻 Sr. Machine Learning Engineer at Fusemachines
+- 👨‍🏫 Assistant Professor at Department of Computer Science at Kathmandu University
+- 💻 I teach course on AI, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
+- 💻 Python, Julia, R, Rust, JavaScript, Typescript, Node.js, React, C/C++,
 
 
 <details>
