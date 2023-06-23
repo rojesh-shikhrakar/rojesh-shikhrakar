@@ -10,9 +10,9 @@
 
 I'm Rojesh
 
-- 👨‍💻 Sr. Manager, Previously Sr. ML Engineer at Fusemachines
+- 👨‍💻 Sr. Manager at Fusemachines, Visiting Faculty at Kathmandu University Dept. of Computer Science and Engineering
 - 👨‍🏫 Assistant Professor at Department of Computer Science at Kathmandu University
-- 💻 I teach course on AI, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
+- 💻 I teach course on Data Science and Data Engineering: AI, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
 - 💻 Python, Julia, R, Rust, JavaScript, Typescript, Node.js, React, C/C++,
 
 
