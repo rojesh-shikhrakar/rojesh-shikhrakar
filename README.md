@@ -11,7 +11,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  alt="Julia" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" />
@@ -22,9 +22,9 @@
 I'm Rojesh (he/him)
 
 - 👨‍💻 Sr. Manager of Talent Development at Fusemachines Nepal: Lead AI Fellowship program, Internship, Apprenticeship, Training at fusemachines
-- 👨‍🏫 Assistant Professor at Department of Computer Science and Engineering at Kathmandu University: [AICC202 Intro to Data Science](https://rojesh-shikhrakar.github.io/KU-AICC202-Intro-to-Data-Science/), [AAIC557 Data Acquisition Management Systems](https://rojesh-shikhrakar.github.io/KU-AIAC557-DataAcquisitionManagementSystem/)
+- 👨‍🏫 Teach multiple bachelors and master courses on AI and Data Engineering at different colleges: KU, Islington, NIST, ...
 - 💻 I teach course on Data Science and Data Engineering: AI, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
-- 🔭 I’m currently working on Systems Engineering
+- 🔭 I’m currently interested on Systems Engineering, software performance and reliability engineering.
 
 <details>
 <summary>
